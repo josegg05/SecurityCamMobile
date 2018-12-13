@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">SecureCam</string>
+    <string name="sing_in_label">Start sending messages</string>
+    <string name="title_home">Home</string>
+    <string name="title_people">Personas</string>
+    <string name="title_group">Grupos</string>
+    <string name="title_my_account">Mi Cuenta</string>
+    <string name="button_sing_in">Continue &amp; Sing In</string>
+    <string name="send_message_hint">Write your message</string>
+    <string name="ja_je_ji_jo">JAJAJAJAJAA JEJEJEJEEJEJ JIJIJIJIJI JOJOJOJOJO</string>
+    <string name="location_permissions_rationale">SecuCam requires access to your location in order to enable you
+        add devices.
+        Do you want to grant this permission?
+    </string>
+    <string name="camera_permissions_rationale">Memeticame requires access to your camera in order to take a picture.
+        Do you want to grant this permission?
+    </string>
+    <string name="record_permissions_rationale">Memeticame requires access to your microphone in order to record an
+        audio.
+        Do you want to grant this permission?
+    </string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="add_contact">Add Contact</string>
+    <string name="validation_empty">Debe escribir algo</string>
+</resources>
